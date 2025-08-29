@@ -1,5 +1,4 @@
-
-# Step-By-Step Tutorial for Building a REST API in Java
+# jax-rs with Guice and junit
 
 mvn clean package
 ./target/bin/taskmanagement_webapp
